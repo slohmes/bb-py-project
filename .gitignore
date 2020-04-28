@@ -1,4 +1,4 @@
 secrets.md
 .DS_Store
 .vscode/
-__pycache__/*
+__pycache__/
