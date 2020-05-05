@@ -3,3 +3,4 @@ secrets.md
 .vscode/
 __pycache__/
 *.pyc
+node_modules/
